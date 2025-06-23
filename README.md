@@ -12,10 +12,10 @@
   
 - **A-Search** - Чатбот/поисковик с Retrieval Augmented Generation и Agent режимом, URL контекстом до 20 ссылок. [Перейти к боту](https://t.me/aspectsearchbot)
 
+- **A-REI** -  敬 Reflective Evaluative Intelligence. (dev)
+
 - "A-Col******" - ? (soon)
-
-- **A-Agents** — мультиагентная система с RAG для любых задач
-
+- 
 - **...и другие модули — скоро**
 
 ---
