@@ -12,12 +12,7 @@
   
 - **A-Search** - Чатбот/поисковик с Retrieval Augmented Generation и Agent режимом, URL контекстом до 20 ссылок. [Перейти к боту](https://t.me/aspectsearchbot)
 
-- **REI** -  敬 Reflective Evaluative Intelligence. (dev)
-
-- "A-Col******" - ? (soon)
-- 
-- **...и другие модули — скоро**
-
+- **REI** -  敬 Enchance Your Reasoning with REI, Reflect. Evaluate. Intelligent. Try in API someday.
 ---
 
 ## 🛠 Использование
