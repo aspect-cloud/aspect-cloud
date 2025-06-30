@@ -12,7 +12,7 @@
   
 - **A-Search** - Чатбот/поисковик с Retrieval Augmented Generation и Agent режимом, URL контекстом до 20 ссылок. [Перейти к боту](https://t.me/aspectsearchbot)
 
-- **REI** -  敬 Enchance Your Reasoning with REI, Reflect. Evaluate. Intelligent. Try in API someday.
+- **REI** -  敬 Enchance Your Reasoning with REI, Reflect. Evaluate. Intelligent. Try in API not soon.
 ---
 
 ## 🛠 Использование
@@ -20,6 +20,7 @@
 - Все исходники открыты — можно развернуть, адаптировать и использовать.
 - Конфигурация уже подготовлена для деплоя на [Vercel](https://vercel.com).
 
----
+---# © A.Cloud by [@qzbxwv](https://github.com/qzbxwv)
 
-## © A.Cloud by [@qzbxwv](https://github.com/qzbxwv)
+
+## © A.Cloud by qzbx 
