@@ -20,8 +20,7 @@
 - Все исходники открыты — можно развернуть, адаптировать и использовать.
 - Конфигурация уже подготовлена для деплоя на [Vercel](https://vercel.com).
 
----# © A.Cloud by [@qzbxwv](https://github.com/qzbxwv)
+---
 
-
-## © A.Cloud by qzbx 
+## © A.Cloud by qzbx
 See you later, my friends! ;)
